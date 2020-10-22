@@ -1,0 +1,7 @@
+packages: .
+                
+source-repository-package
+  type: git
+  location: https://github.com/pjones/byline
+  tag: 169ba1464c2b8c2fd9f0632d009ac27b13ea0c0d
+  subdir: mtl

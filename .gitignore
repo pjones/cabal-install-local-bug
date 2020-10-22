@@ -1,0 +1,4 @@
+.cabal/
+dist-newstyle/
+/cabal-cabal-install-3.4.0.0-rc4/
+/cabal-install-3.4.0.0-rc4.tar.gz
