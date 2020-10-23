@@ -1,5 +1,5 @@
 cabal-version:       >=1.10
-name:                cabal-install-local-bug
+name:                cabal-install-local
 version:             0.1.0.0
 license-file:        LICENSE
 author:              Peter Jones

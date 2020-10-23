@@ -1,4 +1,4 @@
-name: CI
+name: cabal-3.2
 on:
   pull_request:
   push:
