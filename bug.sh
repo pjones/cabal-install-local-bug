@@ -7,7 +7,7 @@ set -o pipefail
 cabal --version
 
 # The build will succeed:
-cabal --store-dir=.cabal build
+cabal --store-dir="$(pwd)/.cabal" build
 
 # But the install will fail:
-cabal --store-dir=.cabal install
+cabal --store-dir="$(pwd)/.cabal" install
